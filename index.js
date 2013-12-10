@@ -25,3 +25,5 @@ if (typeof Array.prototype.indexOf !== "function") {
         return -1;
     };
 }
+
+module.exports = Array.prototype.indexOf;
