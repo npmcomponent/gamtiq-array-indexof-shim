@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [gamtiq/array-indexof-shim](http://github.com/gamtiq/array-indexof-shim). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/gamtiq-array-indexof-shim`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # array-indexof-shim
 
 Shim for ECMAScript 5 Array.prototype.indexOf.  

@@ -1,0 +1,15 @@
+{
+  "name": "gamtiq-array-indexof-shim",
+  "description": "Shim for ECMAScript 5 Array.prototype.indexOf",
+  "version": "0.0.1",
+  "keywords": [
+    "Array",
+    "indexOf",
+    "es5",
+    "shim",
+    "polyfill"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
